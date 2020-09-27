@@ -159,6 +159,7 @@ PRODUCT_PACKAGES += \
     LineageSettingsProvider \
     Eleven \
     ExactCalculator \
+    Jelly \
     Trebuchet \
     LockClock \
     Updater \
